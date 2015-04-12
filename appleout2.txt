@@ -1,0 +1,8 @@
+hamster  dog  dog  lion  snake  hamster  dog  fish  pig  monkey    
+frog    
+dog  fish  pig  fish    
+monkey  snake  bird  snake  bear    
+bird  dog  monkey  snake  hamster  frog  monkey  frog  tiger    
+pig  bird  monkey  frog  cat  frog  dog  cat  fish  frog  cat    
+lion  fish  snake  bear  monkey  frog    
+dog  bear  frog  fish    
