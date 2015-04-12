@@ -1,0 +1,61 @@
+Printing in Hash Table Order:
+  
+Number of unique words: 12
+Name: bear     Count: 3     Lines: [4, 7, 8]
+Name: bird     Count: 3     Lines: [4, 5, 6]
+Name: snake     Count: 5     Lines: [1, 4, 4, 5, 7]
+Name: lion     Count: 2     Lines: [1, 7]
+Name: cat     Count: 3     Lines: [6, 6, 6]
+Name: tiger     Count: 1     Lines: [5]
+Name: frog     Count: 8     Lines: [2, 5, 5, 6, 6, 6, 7, 8]
+Name: fish     Count: 6     Lines: [1, 3, 3, 6, 7, 8]
+Name: dog     Count: 7     Lines: [1, 1, 1, 3, 5, 6, 8]
+Name: hamster     Count: 3     Lines: [1, 1, 5]
+Name: monkey     Count: 6     Lines: [1, 4, 5, 5, 6, 7]
+Name: pig     Count: 3     Lines: [1, 3, 6]
+  
+  
+Printing in Alphabetical Order:
+  
+Number of unique words: 12
+Name: bear     Count: 3     Lines: [4, 7, 8]
+Name: bird     Count: 3     Lines: [4, 5, 6]
+Name: cat     Count: 3     Lines: [6, 6, 6]
+Name: dog     Count: 7     Lines: [1, 1, 1, 3, 5, 6, 8]
+Name: fish     Count: 6     Lines: [1, 3, 3, 6, 7, 8]
+Name: frog     Count: 8     Lines: [2, 5, 5, 6, 6, 6, 7, 8]
+Name: hamster     Count: 3     Lines: [1, 1, 5]
+Name: lion     Count: 2     Lines: [1, 7]
+Name: monkey     Count: 6     Lines: [1, 4, 5, 5, 6, 7]
+Name: pig     Count: 3     Lines: [1, 3, 6]
+Name: snake     Count: 5     Lines: [1, 4, 4, 5, 7]
+Name: tiger     Count: 1     Lines: [5]
+  
+Printing in Freq Order:
+  
+Number of unique words: 12
+Name: frog     Count: 8     Lines: [2, 5, 5, 6, 6, 6, 7, 8]
+Name: dog     Count: 7     Lines: [1, 1, 1, 3, 5, 6, 8]
+Name: fish     Count: 6     Lines: [1, 3, 3, 6, 7, 8]
+Name: monkey     Count: 6     Lines: [1, 4, 5, 5, 6, 7]
+Name: snake     Count: 5     Lines: [1, 4, 4, 5, 7]
+Name: bear     Count: 3     Lines: [4, 7, 8]
+Name: bird     Count: 3     Lines: [4, 5, 6]
+Name: cat     Count: 3     Lines: [6, 6, 6]
+Name: hamster     Count: 3     Lines: [1, 1, 5]
+Name: pig     Count: 3     Lines: [1, 3, 6]
+Name: lion     Count: 2     Lines: [1, 7]
+Name: tiger     Count: 1     Lines: [5]
+  
+Printing Top Ten Order:
+  
+Name: frog     Count: 8     Lines: [2, 5, 5, 6, 6, 6, 7, 8]
+Name: dog     Count: 7     Lines: [1, 1, 1, 3, 5, 6, 8]
+Name: fish     Count: 6     Lines: [1, 3, 3, 6, 7, 8]
+Name: monkey     Count: 6     Lines: [1, 4, 5, 5, 6, 7]
+Name: snake     Count: 5     Lines: [1, 4, 4, 5, 7]
+Name: hamster     Count: 3     Lines: [1, 1, 5]
+Name: pig     Count: 3     Lines: [1, 3, 6]
+Name: bear     Count: 3     Lines: [4, 7, 8]
+Name: cat     Count: 3     Lines: [6, 6, 6]
+Name: bird     Count: 3     Lines: [4, 5, 6]
